@@ -10,7 +10,7 @@ import ExternalHelpersPlugin = require('babel-plugin-external-helpers');
 import { RollupOptions, GlimmerAppOptions } from '../interfaces';
 import DebugMacros from 'babel-plugin-debug-macros';
 
-import Rollup = require('broccoli-rollup');
+import Rollup = require('@vazgentigranich/parlor-broccoli-rollup');
 import { Project } from 'ember-build-utilities';
 import { Tree } from 'broccoli';
 

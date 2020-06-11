@@ -132,7 +132,7 @@ declare module "broccoli-merge-trees" {
   export = MergeTrees;
 }
 
-declare module "broccoli-rollup" {
+declare module "@vazgentigranich/parlor-broccoli-rollup" {
   import Plugin from "broccoli-plugin";
   import { Tree } from "broccoli";
 
